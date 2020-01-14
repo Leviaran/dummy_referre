@@ -4,6 +4,7 @@ import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.android.installreferrer.api.InstallReferrerClient
 
 class ReferreActivity : AppCompatActivity() {
 
